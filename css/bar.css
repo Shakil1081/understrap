@@ -1,0 +1,25 @@
+#data-table-chart, #data-table-chartt, #data-table-charttt {
+	display: none;
+}
+/*
+.bar span {
+	background: #fefefe url(../images/info-bg.png) 0 100% repeat-x;
+}
+*/
+.bar span {
+	background: rgba(0, 0, 0, 0);
+}
+.chartt .fig3, .charttt .fig3{
+    background: yellow;
+}
+.fig0, .fig3{
+  background: green; /* For browsers that do not support gradients */
+}
+.fig1, .fig4 {
+  background: #b4b4b4; /* For browsers that do not support gradients */
+}
+.fig2, .fig5{
+  background: #000; /* For browsers that do not support gradients */
+}
+
+
